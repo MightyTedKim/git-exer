@@ -1,5 +1,7 @@
 인프런 인강 git-exer" 
 
+- master rebase conflict
+
 - master rebase  feature/c
 
 - feautre/c rebase auto merge
