@@ -1,5 +1,5 @@
 인프런 인강 git-exer" 
-- feature pr conflict
+- feature pr conflict2
 - rebase 1.2.
 - rebase 3.
 
