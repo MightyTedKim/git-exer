@@ -1,6 +1,8 @@
 인프런 인강 git-exer" 
 
--modify README.md
+- feautre/c rebase auto merge
+
+- modify README.md
 
 - stash2
 =======
