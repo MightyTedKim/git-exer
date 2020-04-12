@@ -8,3 +8,5 @@
 - fastforward2 / conflict test
 
 - 3-way other
+
+- rebase fast-fwd
