@@ -1,5 +1,5 @@
 인프런 인강 git-exer" 
-- feature pr conflict2
+- master % feautre/d pr - feauture/d
 - rebase 1.2.
 - rebase 3.
 
