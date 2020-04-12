@@ -10,3 +10,5 @@
 - 3-way other
 
 - rebase fast-fwd
+
+- master rebase auto merge
