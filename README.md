@@ -22,3 +22,5 @@
 - master rebase auto merge
 
 - master rebase auto merge2
+
+- pr exer
