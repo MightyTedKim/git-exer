@@ -4,3 +4,5 @@
 
 - stash2
 =======
+
+- fastforward
