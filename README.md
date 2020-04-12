@@ -5,6 +5,6 @@
 - stash2
 =======
 
-- fastforward2
+- fastforward2 / conflict test
 
 - 3-way other
