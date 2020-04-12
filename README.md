@@ -1,4 +1,6 @@
 인프런 인강 git-exer" 
+- rebase 1.2.
+- rebase 3.
 
 - master rebase conflict
 
